@@ -1,4 +1,4 @@
-import { type } from 'os';
+
 import Chart from 'react-apexcharts';
 
 const BarChart = () => {
