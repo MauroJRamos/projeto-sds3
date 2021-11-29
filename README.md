@@ -8,7 +8,7 @@
 * Publicar o backend no Heroku.
 * Apresentar um dashboard com gráficos e informação sobre as vendas.
 
-#Backend
+# Backend
 ### No backend foi utilizado o Java com Spring Boot para criar uma Rest/API.
 #### projeto Spring Boot no Spring Initializr com as seguintes dependências:
 
