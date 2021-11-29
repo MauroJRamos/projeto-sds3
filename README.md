@@ -26,5 +26,4 @@
 * Consultas agrupadas para gráficos
 * Implantação na nuvem
 
-{image}https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png
-
+(https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
