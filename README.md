@@ -30,3 +30,18 @@ https://sistemadevendas-mauro.netlify.app/
 
 ### 3- Modelo Concetual
 ![Web 1](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
+
+#FRONTEND
+
+###Objetivos do projeto para esta aula
+*Integrar back end e front end
+*Três pilares do React
+**Componentes
+**Props
+**Estado
+React Hooks
+useState
+useEffect
+Libs
+React Router DOM
+Axios
