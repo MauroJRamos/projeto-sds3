@@ -40,8 +40,8 @@ https://sistemadevendas-mauro.netlify.app/
   * Props
   * Estado
 * React Hooks
-* * useState
-* * useEffect
+  * useState
+  * useEffect
 * Libs
-* * React Router DOM
-* * Axios
+  * React Router DOM
+  * Axios
