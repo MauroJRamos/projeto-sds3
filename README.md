@@ -36,9 +36,9 @@ https://sistemadevendas-mauro.netlify.app/
 ### Objetivos do projeto para esta aula
 *  back end e front end
 * Três pilares do React
-* * Componentes
-* * Props
-* * Estado
+  * Componentes
+  * Props
+  * Estado
 * React Hooks
 * * useState
 * * useEffect
