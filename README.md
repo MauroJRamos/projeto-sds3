@@ -10,12 +10,20 @@
 
 # Backend
 ### No backend foi utilizado o Java com Spring Boot para criar uma Rest/API.
-#### projeto Spring Boot no Spring Initializr com as seguintes dependências:
+#### Criado projeto Spring Boot no Spring Initializr com as seguintes dependências:
 
 * Web
 * JPA
 * H2
 * Postgres
 * Security
+
+### Implementar o backend com:
+
+* Modelo de domínio
+* Estruturar o back end no padrão camadas
+* Consulta paginada de vendas
+* Consultas agrupadas para gráficos
+* Implantação na nuvem
 
 
