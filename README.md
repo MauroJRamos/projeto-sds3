@@ -28,12 +28,15 @@ https://sistemadevendas-mauro.netlify.app/
 * Consultas agrupadas para gráficos
 * Implantação na nuvem
 
+#### Projeto no Heroku
+
+
 ### 3- Modelo Concetual
 ![Web 1](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
 
-# FRONTEND
+# Frontend
 
-### Objetivos do projeto para esta aula
+### Objetivos do projeto
 *  back end e front end
 * Três pilares do React
   * Componentes
@@ -45,3 +48,11 @@ https://sistemadevendas-mauro.netlify.app/
 * Libs
   * React Router DOM
   * Axios
+ 
+ ## Autor:
+ 
+ Mauro José Ramos.
+ 
+ Github: https://github.com/MauroJRamos
+ Linkedin: https://www.linkedin.com/in/mauro-ramos-70758b56/
+ 
