@@ -30,8 +30,8 @@ https://sistemadevendas-mauro.netlify.app/
 
 #### Projeto no Heroku
 * Endpoints
- * https://sds3-mauroramosti.herokuapp.com/sales
- * https://sds3-mauroramosti.herokuapp.com/sellers
+  * https://sds3-mauroramosti.herokuapp.com/sales
+  * https://sds3-mauroramosti.herokuapp.com/sellers
 
 
 ### 3- Modelo Concetual
