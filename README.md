@@ -29,6 +29,9 @@ https://sistemadevendas-mauro.netlify.app/
 * Implantação na nuvem
 
 #### Projeto no Heroku
+* Endpoints
+ * https://sds3-mauroramosti.herokuapp.com/sales
+ * https://sds3-mauroramosti.herokuapp.com/sellers
 
 
 ### 3- Modelo Concetual
